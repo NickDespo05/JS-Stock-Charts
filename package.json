@@ -9,6 +9,7 @@
   "author": "",
   "license": "",
   "dependencies": {
+    "cross-fetch": "^3.1.5",
     "live-server": "^1.2.1"
   }
 }
